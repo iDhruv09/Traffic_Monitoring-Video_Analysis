@@ -239,13 +239,3 @@ video_analysis/video_analysis.ipynb
 Developed as a Computer Vision & Deep Learning AI Video Analytics Project.
 
 ---
-
-If you want, I can now provide:
-
-* ⭐ 4 strong resume bullet points (combined project)
-* 💼 Internship-level description
-* 🏢 Enterprise-grade version
-* 🎯 Short powerful GitHub profile description
-* 🔥 LinkedIn project description
-
-Tell me your goal (internship / job / production).
